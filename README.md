@@ -1,6 +1,6 @@
-#[NickNotes](http://nicknotes.herokuapp.com/)
+# [NickNotes](http://nicknotes.herokuapp.com/)
 
-##An online notebook
+## An online notebook
 
 ![alt text](/public/nicknotes.png)
 
